@@ -1,0 +1,62 @@
+id: IBFF66B07
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T23:00:17.287079'
+last_modified: '2022-05-30T23:00:17.287084'
+parser: null
+source_metadata:
+  title: Rongtön Sheja Künrig Series
+  language: pt
+  description: Rongtön Sheja Kunrig (rong ston shes bya kun rig), also known as Shakya
+    Gyaltsen, (shakya rgyal mtshan, 1367-1449) was one of the greatest scholars of
+    the Sakya school, renowned especially for his mastery of the prajñāpāramitā teachings.
+    He founded Nalendra Monastery in 1436.
+  volume:
+    f0F30:
+      title: 'The Joyous Entrance to the Path to Liberation: How to Practise the Six
+        Transcendent Perfections'
+      base_file: f0F30.txt
+      order: 1
+      parent: Advice
+    f181D:
+      title: 'The Garland of Jewel Ornaments: The Stages of Meditating on the Bodhicaryāvatāra'
+      base_file: f181D.txt
+      order: 2
+      parent: Bodhicaryāvatāra
+    f4D42:
+      title: 'Clarifying the Essence: A Summary of the Instructions on the View of
+        the Middle Way'
+      base_file: f4D42.txt
+      order: 3
+      parent: Middle Way
+    f3138:
+      title: 'Melodious Sound: In Praise of Vulture Peak Mountain'
+      base_file: f3138.txt
+      order: 4
+      parent: Praise
+    fB5FB:
+      title: 'The Sun that Causes the Lotus of Intelligence to Bloom: In Praise of
+        the Lineage of Gurus for the Noble Abhidharma'
+      base_file: fB5FB.txt
+      order: 5
+      parent: Praise
+    f23A7:
+      title: Elucidating the Essence of the Instructions for Entering the Three Gateways
+        to Liberation
+      base_file: f23A7.txt
+      order: 6
+      parent: Three Gateways to Liberation
+    f588B:
+      title: 'The Excellent Path of the Great Vehicle: How to Meditate on the Three
+        Gateways to Liberation According to the Mahāyāna'
+      base_file: f588B.txt
+      order: 7
+      parent: Three Gateways to Liberation
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
